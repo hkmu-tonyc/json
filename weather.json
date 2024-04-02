@@ -1,0 +1,100 @@
+{
+   "weather":[
+      {
+         "id":"c1",
+         "name":"Hong Kong",
+         "region":"",
+         "country":"Hong Kong, China",
+         "temp_c":26,
+         "humidity":74
+      },
+      {
+         "id":"c3",
+         "name":"Shanghai",
+         "region":"Shanghai",
+         "country":"China",
+         "temp_c":17,
+         "humidity":83
+      },
+      {
+         "id":"c5",
+         "name":"Tokyo",
+         "region":"Tokyo",
+         "country":"Japan",
+         "temp_c":12,
+         "humidity":88
+      },
+      {
+         "id":"c7",
+         "name":"Seoul",
+         "region":"",
+         "country":"South Korea",
+         "temp_c":15,
+         "humidity":48
+      },
+      {
+         "id":"c8",
+         "name":"Singapore",
+         "region":"",
+         "country":"Singapore",
+         "temp_c":30,
+         "humidity":70
+      },
+      {
+         "id":"c10",
+         "name":"Bangkok",
+         "region":"Krung Thep",
+         "country":"Thailand",
+         "temp_c":33,
+         "humidity":59
+      },
+      {
+         "id":"c11",
+         "name":"Sydney",
+         "region":"New South Wales",
+         "country":"Australia",
+         "temp_c":19,
+         "humidity":88
+      },
+      {
+         "id":"c15",
+         "name":"New York",
+         "region":"New York",
+         "country":"United States of America",
+         "temp_c":0,
+         "humidity":43
+      },
+      {
+         "id":"c16",
+         "name":"London",
+         "region":"City of London, Greater London",
+         "country":"United Kingdom",
+         "temp_c":10,
+         "humidity":58
+      },
+      {
+         "id":"c18",
+         "name":"Warsaw",
+         "region":"",
+         "country":"Poland",
+         "temp_c":7,
+         "humidity":66
+      },
+      {
+         "id":"c20",
+         "name":"Frankfurt",
+         "region":"Hessen",
+         "country":"Germany",
+         "temp_c":8,
+         "humidity":76
+      },
+      {
+         "id":"c24",
+         "name":"Dubai",
+         "region":"Dubai",
+         "country":"United Arab Emirates",
+         "temp_c":33,
+         "humidity":36
+      }
+   ]
+}
